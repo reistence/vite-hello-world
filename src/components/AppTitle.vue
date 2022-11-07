@@ -12,6 +12,7 @@ export default {
 </template>
 <style scoped>
 h1 {
+  margin-top: 0.5em;
   font-size: 3rem;
   color: red;
   text-align: center;
